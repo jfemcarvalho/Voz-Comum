@@ -1,0 +1,2 @@
+﻿
+.ph15{font-size:1.5em!important}.detalhe__acoes{display:flex;gap:8px}.acao{flex:1;display:inline-flex;align-items:center;justify-content:center;gap:6px;height:40px;border-radius:10px;border:1px solid #d9dcdf;background:#fff;color:#3c4043;font-size:14px}.acao.ativo{background:#eaf3de;border-color:#97c459;color:#27500a}.acao--icone{flex:0 0 40px}
