@@ -1,7 +1,7 @@
 # Voz Comum
 
 **Falar com a Câmara sem burocracia.**
-Projeto para o **Hack4Guimarães**, Desafio 4: *"Falar com a Câmara sem burocracia"*.
+Projeto para o **Hack4Guimarães 2035**, Desafio 4: *"Falar com a Câmara sem burocracia"*.
 
 A Voz Comum é o ponto único onde o cidadão de Guimarães fala com a Câmara Municipal. Vê no mapa o que o município oferece, reporta problemas no espaço público, acompanha o que acontece a cada um, apoia e comenta as ocorrências e propostas de outros cidadãos e percebe, passo a passo e em linguagem simples, o que tem de tratar em cada momento da vida. Do outro lado, a Câmara tem um backoffice onde responde, define prioridades, modera conteúdo e gere o mapa e os guias sem precisar de apoio técnico.
 
@@ -133,4 +133,4 @@ O desenvolvimento usou o **ODC Studio** e o **Mentor** (o assistente de IA da Ou
 
 ---
 
-**Autor:** João Carvalho, Hack4Guimarães 2026
+**Autor:** João Carvalho, Hack4Guimarães 2035
