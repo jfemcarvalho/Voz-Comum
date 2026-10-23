@@ -77,7 +77,7 @@ Uma única aplicação, pensada primeiro para o telemóvel, com dois lados:
 
 | Entrada | Mapa | As minhas ocorrências | Detalhe da ocorrência | Guias |
 |---|---|---|---|---|
-| ![Entrada](docs/screenshots/app-login.jpg) | ![Mapa](docs/screenshots/app-mapa.jpg) | ![As minhas ocorrências](docs/screenshots/app-minhas-ocorrencias.jpg) | ![Detalhe](docs/screenshots/app-gaveta-ocorrencia.jpg) | ![Guias](docs/screenshots/app-guias.jpg) |
+| ![Entrada](docs/screenshots/app-login.jpg) | ![Mapa](docs/screenshots/app-mapa.png) | ![As minhas ocorrências](docs/screenshots/app-minhas-ocorrencias.jpg) | ![Detalhe](docs/screenshots/app-gaveta-ocorrencia.jpg) | ![Guias](docs/screenshots/app-guias.png) |
 
 | Dashboard | Ocorrências | Camadas do mapa |
 |---|---|---|
